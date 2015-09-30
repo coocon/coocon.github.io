@@ -1,0 +1,12 @@
+# Site settings
+title: 朋行天下的Javascript世界 
+email: coocon2007@gmail.com 
+description: > # this means to ignore newlines until "baseurl:"
+    一个程序猿的世界里边住着一个中二病：碎裂吧，镜花水月！
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.coocons.com" # the base hostname & protocol for your site
+twitter_username: coocon2007
+github_username:  coocon
+
+# Build settings
+markdown: kramdown
