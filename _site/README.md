@@ -1,2 +1,2 @@
 # coocon.github.io
-blog.coocons.com
+朋行天下的javascript世界
