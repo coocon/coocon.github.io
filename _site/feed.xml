@@ -6,8 +6,8 @@
 </description>
     <link>http://blog.coocons.com/</link>
     <atom:link href="http://blog.coocons.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 30 Sep 2015 19:59:08 +0800</pubDate>
-    <lastBuildDate>Wed, 30 Sep 2015 19:59:08 +0800</lastBuildDate>
+    <pubDate>Fri, 02 Oct 2015 22:38:51 +0800</pubDate>
+    <lastBuildDate>Fri, 02 Oct 2015 22:38:51 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -35,6 +35,20 @@
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>charles查看https请求</title>
+        <description>&lt;p&gt;http的代理神器有好多，windows上的fiddler灰常好用，是居家旅行之必备。不过由于需要.net的环境，在Mac上安装就不方便，所以使用基于java的charles,显得更适合一些。好了废话不多讲了，http的代理很简单，现在看看https的查看方法吧!&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 01 Oct 2015 02:54:18 +0800</pubDate>
+        <link>http://blog.coocons.com/other/2015/10/01/charles%E6%9F%A5%E7%9C%8Bhttps%E8%AF%B7%E6%B1%82.html</link>
+        <guid isPermaLink="true">http://blog.coocons.com/other/2015/10/01/charles%E6%9F%A5%E7%9C%8Bhttps%E8%AF%B7%E6%B1%82.html</guid>
+        
+        
+        <category>other</category>
         
       </item>
     
